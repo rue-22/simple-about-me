@@ -1,11 +1,3 @@
-// button.addEventListener("click", function () {
-//     if (nameAnswer.classList.contains("reveal")) {
-//         nameAnswer.classList.remove("reveal");
-//     } else {
-//         nameAnswer.classList.add("reveal");
-//     }
-// });
-
 const ansElements = document.querySelectorAll(
     "#name-ans, #age-ans, #study-ans, #lose-ans"
 );
